@@ -2,7 +2,7 @@
 
 Welcome to **Valentines Blossoming Flower**, a beautifully designed interactive webpage to surprise your loved one! This project creates a romantic digital experience where users are prompted with a question: **"Will You Be My Valentine?"** and are given an engaging and fun way to respond.
 
-🌐 **Live Demo**: You can check out the live version of this project at [junayed-hasan.github.io/valentines_blossoming_flower](https://junayed-hasan.github.io/valentines_blossoming_flower/). Easily host it on **GitHub Pages** and send the link to your loved one for a sweet surprise! 💕
+🌐 **Live Demo**: You can check out the live version of this project at [junayed-hasan.github.io/valentines_blossoming_flower](https://Ahnaf-Chowdhury.github.io/valentines_blossoming_flower/). Easily host it on **GitHub Pages** and send the link to your loved one for a sweet surprise! 💕
 
 ## ✨ Features
 - A heartwarming Valentine’s Day invitation with animated responses.
@@ -23,7 +23,7 @@ Welcome to **Valentines Blossoming Flower**, a beautifully designed interactive 
 You can personalize this project in the following ways:
 
 ### 1️⃣ Change the Background Image
-Replace `image.jpeg` with your desired background image, ensuring the filename remains `image.jpeg`.
+Replace `HINATA` with your desired background image, ensuring the filename remains `HINATA`.
 
 ### 2️⃣ Modify the Text and Messages
 - Edit the main message inside **index.html** in the following section:
@@ -32,7 +32,7 @@ Replace `image.jpeg` with your desired background image, ensuring the filename r
   ```
 - Update the response message when **Yes** is clicked:
   ```html
-  wedate.innerText = "We are each other's valentine now. I love you cutie. ❤️😘";
+  wedate.innerText = "We are each other's valentine now. I love you Afia My cutie. ❤️😘";
   ```
   in `main2.js` inside the `yes()` function.
 
@@ -56,7 +56,7 @@ Replace `image.jpeg` with your desired background image, ensuring the filename r
   - Background colors and effects
 
 ### 5️⃣ Add Your Name
-- Replace `Your Teddy` in **index.html** with your own signature:
+- Replace `Your DADDY` in **index.html** with your own signature:
   ```html
   <a rel="noopener" href="https://www.linkedin.com/in/mjhasan21/" target="_blank">Your Teddy</a>
   ```
