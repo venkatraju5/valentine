@@ -17,7 +17,7 @@ Welcome to **Valentines Blossoming Flower**, a beautifully designed interactive 
 |------------|------------|
 | ![Will You Be My Valentine?](ss1.png) | Initial prompt asking the user to be the valentine. |
 | ![If No is Clicked](ss2.png) | Fun interaction where the button changes behavior with pleading animations. |
-| ![If Yes is Clicked](ss3.png) | Romantic response with flower blooming and a special message. |
+| ![If Yes is Clicked] | Romantic response with flower blooming and a special message. |
 
 ## 🎨 Customization Guide
 You can personalize this project in the following ways:
